@@ -2,8 +2,7 @@
 title: Episodes
 sections:
   - type: hero_section
-    title: Episodes
-    subtitle: List of episodes in order
+    title: Get To Know Me
     align: center
     padding_top: medium
     padding_bottom: small
@@ -27,7 +26,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: Get Podcast Straight Into your Inbox
+    title: Get Updates Straight Into your Inbox
     title_align: center
     content_align: center
     form_position: bottom
@@ -59,6 +58,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: /images/26220582_182891932456513_3210798894849671175_o.jpeg
 seo:
   title: Episodes
   description: This is the episodes page
