@@ -62,7 +62,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image: /images/applemusic.PNG
+        image: /images/apple-music.png
       - title: Spotify
         title_align: center
         content_align: center
