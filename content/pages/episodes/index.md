@@ -3,7 +3,6 @@ title: Episodes
 sections:
   - type: hero_section
     title: Episodes
-    subtitle: List of episodes in order
     align: center
     padding_top: medium
     padding_bottom: small
