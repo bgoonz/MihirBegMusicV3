@@ -45,6 +45,7 @@ sections:
     has_border: true
     background_color: secondary
     form_width: fifty
+    enable_card: true
   - section_id: lorem-ipsum
     subtitle: Latest Content
     features:
