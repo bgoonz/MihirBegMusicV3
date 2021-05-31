@@ -1,5 +1,5 @@
 ---
-title: Episode 9 - Pythagoras Et Aegyptum Lustravit
+title: Getting There
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
