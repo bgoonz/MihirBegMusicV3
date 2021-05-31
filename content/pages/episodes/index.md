@@ -2,7 +2,7 @@
 title: Episodes
 sections:
   - type: hero_section
-    title: Get To Know Me
+    title: Show Me What You Got
     align: center
     padding_top: medium
     padding_bottom: small
