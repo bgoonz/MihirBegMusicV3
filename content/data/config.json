@@ -180,7 +180,20 @@
         ],
         "content": "&copy; MihirBegMusic. All rights reserved. This site was created by  <a href=\"https://github.com/bgoonz\" target=\"_blank\" rel=\"noopener\">Bryan Guner</a>.<a href=\"&utm_\" target=\"_blank\" rel=\"noopener\"></a>",
         "logo": "/images/logo4.png",
-        "tertiary_nav_title": "Mihir Beg Music"
+        "tertiary_nav_title": "Mihir Beg Music",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "announcement": {
         "has_anncmnt": true,
