@@ -109,11 +109,6 @@
                 "style": "link"
             },
             {
-                "label": "Terms",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
