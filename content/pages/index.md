@@ -113,7 +113,8 @@ sections:
     subtitle: 2021 Supporters
     align: center
     grid_items:
-      - image: /images/8-83217_itunes-white-logo-png-transparent-png.png
+      - image: >-
+          /images/407-4075111_instagram-new-logo-vector-itunes-icon-white-png_150x150.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
