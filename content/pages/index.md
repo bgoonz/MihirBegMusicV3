@@ -114,7 +114,7 @@ sections:
     align: center
     grid_items:
       - image: >-
-          /images/407-4075111_instagram-new-logo-vector-itunes-icon-white-png_150x150.png
+          /images/366-3667696_instagram-new-logo-vector-itunes-white-icon-png.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
