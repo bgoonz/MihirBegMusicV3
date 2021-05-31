@@ -1,0 +1,120 @@
+{
+    "title": "Stackbit Podcaster Theme",
+    "path_prefix": "/",
+    "layout_type": "boxed",
+    "style": "bold",
+    "palette": "red",
+    "mode": "dark",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "Podcaster",
+        "logo": "images/logo.svg",
+        "logo_alt": "Podcaster logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "url": "/episodes",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Sponsoring",
+                "url": "/advertising",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Subscribe",
+                "url": "/subscribe",
+                "style": "primary"
+            }
+        ]
+    },
+    "footer": {
+        "logo": "images/logo.svg",
+        "logo_alt": "Podcaster logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "url": "/episodes",
+                "style": "link"
+            },
+            {
+                "label": "Subscribe",
+                "url": "/subscribe",
+                "style": "link"
+            },
+            {
+                "label": "Advertising",
+                "url": "/advertising",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Terms",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": false,
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+    },
+    "announcement": {
+        "has_anncmnt": true,
+        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": true,
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-episode"
+    }
+}
