@@ -2,7 +2,7 @@
 title: Episodes
 sections:
   - type: hero_section
-    title: Episodes
+    title: Get To Know Me
     align: center
     padding_top: medium
     padding_bottom: small
