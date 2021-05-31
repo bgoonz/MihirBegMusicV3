@@ -41,6 +41,7 @@ sections:
         is_required: true
         options:
           - Name
+          - lorem-ipsum
     submit_label: Subscribe
     padding_top: medium
     padding_bottom: medium
