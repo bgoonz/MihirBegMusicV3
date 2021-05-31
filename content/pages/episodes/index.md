@@ -42,7 +42,7 @@ sections:
         options:
           - Name
           - lorem-ipsum
-    submit_label: Subscribe
+    submit_label: Contact
     padding_top: medium
     padding_bottom: medium
     has_border: true
