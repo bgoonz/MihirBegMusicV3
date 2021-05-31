@@ -1,41 +1,44 @@
 ---
 title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
-date: 2020-07-15
+  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
+  videre, nihil tranquilli potest.
+date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-1.jpg
+thumb_image: /images/rainy-eucalyptus.PNG
 thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-1.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
-    - name: twitter:description
+    - name: 'twitter:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
 layout: post
