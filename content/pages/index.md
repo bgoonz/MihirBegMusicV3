@@ -113,7 +113,7 @@ sections:
     subtitle: 2021 Supporters
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/itunes.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
