@@ -44,6 +44,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    form_width: fifty
   - section_id: lorem-ipsum
     subtitle: Latest Content
     features:
