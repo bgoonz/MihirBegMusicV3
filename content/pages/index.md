@@ -110,7 +110,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Platforms
-    subtitle: 2021 Supporters
+    subtitle: BUY MY SHIT
     align: center
     grid_items:
       - image_alt: Stackbit logo
