@@ -181,14 +181,14 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Stackbit Podcaster Theme
+  title: Mihir Beg Music
   description: The preview of the Podcaster theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Mihir Beg Music
       keyName: property
     - name: 'og:description'
       value: The preview of the Podcaster theme
@@ -200,7 +200,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Mihir Beg Music
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
