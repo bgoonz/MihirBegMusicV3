@@ -49,17 +49,19 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ##
+          ![](/\_static/app-assets/images/26220582\_182891932456513\_3210798894849671175\_o.jpeg)Lorem
+          ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
