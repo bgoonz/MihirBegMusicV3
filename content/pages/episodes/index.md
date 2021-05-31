@@ -69,7 +69,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-    feature_padding_vert: medium
+    feature_padding_vert: large
     align: center
     padding_top: large
     padding_bottom: medium
