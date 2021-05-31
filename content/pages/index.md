@@ -127,8 +127,7 @@ sections:
         image_align: center
       - image_alt: Contentful logo
         image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
+      - image_alt: Forestry logo
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
