@@ -1,5 +1,5 @@
 ---
-title: Episode 7 - Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Events & DJ
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
