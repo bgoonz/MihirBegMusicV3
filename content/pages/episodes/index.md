@@ -69,7 +69,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/magical-saturn.jpeg
+        image: /images/26220582_182891932456513_3210798894849671175_o.jpeg
     feature_padding_vert: large
     align: center
     padding_top: large
