@@ -113,8 +113,7 @@ sections:
     subtitle: 2021 Supporters
     align: center
     grid_items:
-      - image: >-
-          /images/185-1850993_clip-art-itunes-logo-png-apple-ipad-transparent_300x120.png
+      - image: /images/maroon-plankton.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
