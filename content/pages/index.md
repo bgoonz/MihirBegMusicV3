@@ -119,8 +119,7 @@ sections:
         image_align: center
       - image_alt: Sticker Mule logo
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: GitHub logo
+      - image_alt: GitHub logo
         image_align: center
       - image: images/logo-5.svg
         image_alt: Gatsby logo
