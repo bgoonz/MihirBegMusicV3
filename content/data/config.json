@@ -139,7 +139,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; MihirBegMusic. All rightseate yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\"></a>",
+        "content": "&copy; MihirBegMusic. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\"></a>",
         "logo": "/images/logo4.png",
         "tertiary_nav_title": "Mihir Beg Music"
     },
