@@ -58,6 +58,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: /images/26220582_182891932456513_3210798894849671175_o.jpeg
 seo:
   title: Episodes
   description: This is the episodes page
