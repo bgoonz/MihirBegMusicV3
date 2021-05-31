@@ -74,7 +74,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-2.svg
+        image: /images/notfin.png
         image_alt: Spotify icon
         image_position: top
         image_align: center
