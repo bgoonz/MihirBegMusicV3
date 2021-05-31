@@ -90,7 +90,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: /images/iheartradio_1_86x86.png
+        image: /images/Iheart-radio-logo_86x86.png
         image_alt: Overcast icon
         image_position: top
         image_align: center
