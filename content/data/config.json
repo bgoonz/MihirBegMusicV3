@@ -14,8 +14,7 @@
         "primary_nav_links": [
             {
                 "url": "/episodes",
-                "style": "link",
-                "label": "G"
+                "style": "link"
             },
             {
                 "label": "About",
