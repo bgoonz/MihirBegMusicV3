@@ -39,26 +39,56 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-    submit_label: Subscribe
+        options:
+          - Name
+          - lorem-ipsum
+    submit_label: Contact
     padding_top: medium
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    form_width: fifty
+    enable_card: true
   - section_id: lorem-ipsum
     subtitle: Latest Content
-    features: []
-    feature_padding_vert: medium
+    features:
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >
+          ##
+          ![](/\_static/app-assets/images/26220582\_182891932456513\_3210798894849671175\_o.jpeg)Lorem
+          ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        image: /images/26220582_182891932456513_3210798894849671175_o.jpeg
+    feature_padding_vert: large
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
-    has_border: false
-    background_color: none
+    has_border: true
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: /images/26220582_182891932456513_3210798894849671175_o.jpeg
+    background_image: /images/hero-background.jpg
 seo:
   title: Episodes
   description: This is the episodes page
