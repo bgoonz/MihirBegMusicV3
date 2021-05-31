@@ -45,30 +45,45 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
 seo:
   title: Episodes
   description: This is the episodes page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Episodes
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the episodes page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-9.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Episodes
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the episodes page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-9.jpg
       relativeUrl: true
 layout: advanced
