@@ -135,11 +135,12 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: >
+      ## Contact
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+
+      Please feel free to reach out to inquire about my services or to
+      collaborate on a project.
     content_align: left
     form_position: right
     form_width: fifty
