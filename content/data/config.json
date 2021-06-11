@@ -29,11 +29,11 @@
             },
             {
                 "label": "Gallery",
-                "url": "#",
+                "url": "gallery/",
                 "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "left",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
