@@ -29,7 +29,7 @@
             },
             {
                 "label": "Gallery",
-                "url": "#",
+                "url": "gallery/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
