@@ -25,7 +25,8 @@
             {
                 "label": "Services",
                 "url": "/advertising",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Gallery",
