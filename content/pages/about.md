@@ -4,34 +4,33 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
 layout: page
 ---
 
-![Me doing live podcast](/images/about.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ullamcorper erat mollis placerat. Suspendisse lacus dolor, eleifend id lacinia eget, venenatis et ligula.
+![](/\_static/app-assets/images/mihir2.gif)Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ullamcorper erat mollis placerat. Suspendisse lacus dolor, eleifend id lacinia eget, venenatis et ligula.
 
 Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
 
