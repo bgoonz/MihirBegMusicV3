@@ -28,8 +28,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](/\_static/app-assets/images/mihir3.jpg)Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ullamcorper erat mollis placerat. Suspendisse lacus dolor, eleifend id lacinia eget, venenatis et ligula.
+![](/\_static/app-assets/images/mihir3.jpg)
 
-Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
+### An Entertainer&#xA;
 
-Curabitur eget orci in metus mattis maximus sit amet ut leo. Vestibulum a velit enim. Morbi semper lobortis nulla, non fermentum eros. Nulla luctus metus ac erat aliquet molestie. Nulla lectus sem, vehicula ut viverra at, fermentum sed enim. Curabitur magna nulla, efficitur a lorem a, rhoncus condimentum ex. Cras mi lacus, feugiat non mauris congue, rutrum iaculis metus. Nulla auctor pretium rhoncus. Donec sed nisl pretium, fermentum mi vel, faucibus augue. Vestibulum sed eros ultricies, dignissim erat quis, lobortis mauris. Sed porttitor varius felis, et auctor enim dictum in. Aenean rhoncus condimentum nunc ac mattis. Sed iaculis magna a mi sodales, ut ultricies mi malesuada.
+Growing up, Mihir trained to be an actor, starting with performing in his school plays and choir. After doing stand-up comedy at the Comic Strip Live, Mihir took off with acting and modeling with a role in the Off-Broadway musical "Broadway Jayne" and enjoyed starring in a "Juicy Drop Taffy" Television Commercial. An entertainer since birth, Mihir loves all performing arts and hopes to utilize his acting talents again soon.
+
+### A Singer
+
+Starting in chorus and chamber choir in middle school, Mihir was always searching to find his voice. He received about three years of training at the School Of Rock, as well as four years training with Joy Askew at Stevens. He has also studied Carnatic Indian singing, and devotional Hindu Classical music. 
+
+### A Guitarist
+
+At the age of 13 Mihir started taking lessons at School of Rock. The guitar has been his favorite instrument since, taking his influence from John Frusciante, Jimi Hendrix, and other rock legends. 
+
+Mihir main instruments are a Mccarty PRS electric guitar (pictured) and an A1R Yamaha Acoustic guitar. 
