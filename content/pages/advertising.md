@@ -38,6 +38,3 @@ layout: page
 - Praesent egestas justo eget lacus varius, ut varius ante pretium.
 - Nullam convallis diam a mauris faucibus dignissim.
 
-## Intrested?
-
-The spots are sold through Jam Ads, and they have a calendar of availability you can see and self-service [booking right there](/thank-you)!
