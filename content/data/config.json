@@ -27,7 +27,7 @@
                 "url": "/advertising",
                 "style": "link",
                 "has_icon": true,
-                "icon": "arrow-right"
+                "icon": "arrow-left"
             },
             {
                 "label": "Gallery",
