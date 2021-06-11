@@ -36,10 +36,10 @@ layout: page
 
 ### **A Singer**
 
-*Starting in chorus and chamber choir in middle school, Mihir was always searching to find his voice. He received about three years of training at the School Of Rock, as well as four years training with Joy Askew at Stevens. He has also studied Carnatic Indian singing, and devotional Hindu Classical music. *
+\*Starting in chorus and chamber choir in middle school, Mihir was always searching to find his voice. He received about three years of training at the School Of Rock, as well as four years training with Joy Askew at Stevens. He has also studied Carnatic Indian singing, and devotional Hindu Classical music.\*
 
 ### **A Guitarist**
 
-*At the age of 13 Mihir started taking lessons at School of Rock. The guitar has been his favorite instrument since, taking his influence from John Frusciante, Jimi Hendrix, and other rock legends. *
+\*At the age of 13 Mihir started taking lessons at School of Rock. The guitar has been his favorite instrument since, taking his influence from John Frusciante, Jimi Hendrix, and other rock legends.\*
 
-*Mihir main instruments are a Mccarty PRS electric guitar (pictured) and an A1R Yamaha Acoustic guitar. *
+\*Mihir main instruments are a Mccarty PRS electric guitar (pictured) and an A1R Yamaha Acoustic guitar.\*
