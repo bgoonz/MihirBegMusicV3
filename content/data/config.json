@@ -196,13 +196,5 @@
             }
         ]
     },
-    "announcement": {
-        "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-episode"
-    },
     "domain": "https://panoramic-eggplant-452e4.netlify.app"
 }
