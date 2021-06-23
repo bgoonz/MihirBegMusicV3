@@ -9,7 +9,7 @@
     "header": {
         "title": "Podcaster",
         "logo": "/images/circle-cropped.png",
-        "logo_alt": "Podcaster logo",
+        "logo_alt": "mihir",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -26,7 +26,7 @@
                 "label": "Services",
                 "url": "/advertising",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "arrow-left"
             },
             {
@@ -53,9 +53,9 @@
             },
             {
                 "label": "Online Music Lab",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
+                "url": "https://mihirbegmusiclab.netlify.app/",
+                "style": "primary",
+                "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
