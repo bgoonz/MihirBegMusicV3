@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](/\_static/app-assets/images/profile.png)
+
 
 ## Here are the facts!
 
