@@ -25,4 +25,4 @@ layout: page
 
 
 
-<iframe src="https://mihirbegmusiclab.netlify.app/" style="width:100px; height:1200px;"></iframe>
+<iframe src="https://mihirbegmusiclab.netlify.app/" style="width:100px; height:1200px; "></iframe>
