@@ -114,7 +114,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Message Us On WhatsApp",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
