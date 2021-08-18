@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for testing this theme!
+      Thank you for Suscribing!
     actions:
       - label: Back to homepage
         url: /
