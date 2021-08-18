@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "red",
     "mode": "dark",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "Podcaster",
         "logo": "/images/circle-cropped.png",
