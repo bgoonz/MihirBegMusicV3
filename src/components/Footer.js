@@ -59,37 +59,7 @@ export default class Footer extends React.Component {
                         </div>
                     </div>
                 )}
-                <!-- start of freefind search box html -->
-<table cellpadding=0 cellspacing=0 border=0 >
-<tr>
-	<td  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;">
-		<center><table width="90%" cellpadding=0 cellspacing=0 border=0  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;">
-		<tr>
-			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=left ><a href="https://search.freefind.com/siteindex.html?si=10862521">index</a></td>
-			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=center><a href="https://search.freefind.com/find.html?si=10862521&amp;m=0&amp;p=0">sitemap</a></td>
-			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=right><a href="https://search.freefind.com/find.html?si=10862521&amp;pid=a">advanced</a></td>
-		</tr>
-		</table></center>
-		<form style="margin:0px; margin-top:4px;" action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
-		<input type="hidden" name="si" value="10862521">
-		<input type="hidden" name="pid" value="r">
-		<input type="hidden" name="n" value="0">
-		<input type="hidden" name="_charset_" value="">
-		<input type="hidden" name="bcd" value="&#247;">
-		<input type="text" name="query" size="15"> 
-		<input type="submit" value="search">
-		</form>
-	</td>
-</tr>
-<tr>
-	<td style="text-align:center; font-family: Arial, Helvetica, sans-serif;	font-size: 7.5pt; padding-top:4px;">
-		<a style="text-decoration:none; color:gray;" href="https://www.freefind.com"  rel="nofollow">search engine</a><a style="text-decoration:none; color:gray;" href="https://www.freefind.com" rel="nofollow" > by
-		<span style="color: #606060;">freefind</span></a>
-	</td>
-</tr>
-</table>
-<!-- end of freefind search box html -->
-
+                
                 {(copyright || !_.isEmpty(links) || (hasSocial && !_.isEmpty(socialLinks))) && (
                     <div className="site-footer__info py-3 py-sm-4">
                         <div className="container">
