@@ -28,11 +28,14 @@ seo:
       relativeUrl: true
 layout: page
 ---
+# **Mihir Beg Sound**&#xA;&#xA;&#xA;
 
+## *Mihir Beg Sound *services include Live Sound Tech, DJ, audio equipment rentals and services for concerts, weddings and events. For years, Mihir worked closely alongside the masterful DJ Gera, and has recently purchased a full set of audio equipment suitable for the many services *Mihir Beg Sound *provides. 
 
-## Here are the facts!
+## &#xA;
 
-*   Nulla pellentesque enim id risus viverra, vitae cursus nisi posuere.
-*   Ut maximus leo ut mauris sollicitudin, nec hendrerit arcu cursus.
-*   Praesent egestas justo eget lacus varius, ut varius ante pretium.
-*   Nullam convallis diam a mauris faucibus dignissim.
+## Mihir has been in the DJ and Live Sound business for over 5 years now. He has done large scale concerts, including years of managing the Hoboken Arts and Music Festival, and touring the continent stage managing the Festival of India tour. DJ gigs have ranged from grand weddings, to Sweet 16s and corporate events all over the Tristate area.  
+
+## &#xA;
+
+## Remote Music Production services also available. We do traveling recording sessions, create music videos, compose for film, and voiceover work. We are able to provide you safe and professional audio recording remotely or in the comfort of your home. 
