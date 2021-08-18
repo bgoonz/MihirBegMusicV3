@@ -90,7 +90,8 @@
             {
                 "label": "Blog",
                 "url": "/episodes",
-                "style": "link"
+                "style": "link",
+                "icon": "arrow-right"
             },
             {
                 "label": "Subscribe",
