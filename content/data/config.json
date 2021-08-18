@@ -117,7 +117,7 @@
                 "label": "Message Us On WhatsApp",
                 "url": "https://wa.me/12015660215",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
