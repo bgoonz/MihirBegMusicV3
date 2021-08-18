@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Media Gallery
 seo:
   title: ''
   description: ''
