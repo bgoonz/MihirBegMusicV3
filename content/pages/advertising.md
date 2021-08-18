@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> # **Mihir Beg Sound**
+# ***Mihir Beg Sound&#xA;***&#xA;
 
 > \*Mihir Beg Sound \*services include Live Sound Tech, DJ, audio equipment rentals and services for concerts, weddings and events. For years, Mihir worked closely alongside the masterful DJ Gera, and has recently purchased a full set of audio equipment suitable for the many services \*Mihir Beg Sound \*provides. 
 
