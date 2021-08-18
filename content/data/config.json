@@ -207,7 +207,8 @@
                 "label": "Collaborate"
             }
         ],
-        "primary_nav_title": "MihirBegMusic"
+        "primary_nav_title": "MihirBegMusic",
+        "secondary_nav_title": "Services"
     },
     "domain": "https://panoramic-eggplant-452e4.netlify.app"
 }
