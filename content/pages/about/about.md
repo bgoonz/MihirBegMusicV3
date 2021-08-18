@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Convolution Reverb
 seo:
   title: ''
   description: ''
@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-#
+# Convolution Reverb
 
 
 What Is Convolution Reverb?
