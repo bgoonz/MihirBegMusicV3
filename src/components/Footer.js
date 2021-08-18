@@ -117,7 +117,7 @@ export default class Footer extends React.Component {
           </tr>
           <tr>
             <td style={{textAlign: 'center', fontFamily: 'Arial, Helvetica, sans-serif', fontSize: '7.5pt', paddingTop: '4px'}}>
-              <a style={{textDecoration: 'none', color: 'gray'}} href="https://www.freefind.com" rel="nofollow"></a><a style={{textDecoration: 'none', color: 'gray'}} href="https://www.freefind.com" rel="nofollow"> by
+              <a style={{textDecoration: 'none', color: 'gray'}} href="https://www.freefind.com" rel="nofollow"></a><a style={{textDecoration: 'none', color: 'gray'}} href="https://www.freefind.com" rel="nofollow"> 
                 <span style={{color: '#606060'}}></span></a>
             </td>
           </tr>
