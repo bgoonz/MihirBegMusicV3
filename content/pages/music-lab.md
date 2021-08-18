@@ -4,25 +4,29 @@ seo:
   title: Terms and Conditions
   description: This is the terms and conditions page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Terms and Conditions
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the terms and conditions page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Terms and Conditions
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the terms and conditions page
 layout: page
 ---
-
-
-
-
 <iframe src="https://mihirbegmusiclab.netlify.app/" style="overflow:auto; width:1200px; height:1200px; z-index:-1; "></iframe>
+
+
+
+
+
+
+
+### Leave an audio sample!
