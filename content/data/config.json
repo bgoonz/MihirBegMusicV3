@@ -92,7 +92,8 @@
                 "url": "/episodes",
                 "style": "link",
                 "icon": "arrow-right",
-                "icon_position": "right"
+                "icon_position": "right",
+                "has_icon": true
             },
             {
                 "label": "Subscribe",
