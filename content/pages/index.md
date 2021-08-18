@@ -195,32 +195,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - section_id: Mihir Beg Music
-    title: Mihir Beg Music
-    subtitle: Mihir Beg Music
-    title_align: left
-    content: >-
-      ## Add Me On IG
-
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: Mihir Beg Music
-    form_action: Mihir Beg Music
-    form_fields: []
-    submit_label: Mihir Beg Music
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   title: Mihir Beg Music
   description: The preview of the Podcaster theme
