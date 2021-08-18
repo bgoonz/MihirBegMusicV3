@@ -64,7 +64,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "/p",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
