@@ -65,7 +65,7 @@
             {
                 "label": "Sitemap",
                 "url": "/pages/about",
-                "style": "primary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-right",
                 "icon_position": "right",
