@@ -4,7 +4,7 @@
     "layout_type": "boxed",
     "style": "bold",
     "palette": "red",
-    "mode": "dark",
+    "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "Podcaster",
