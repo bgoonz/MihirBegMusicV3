@@ -1,8 +1,5 @@
 ---
 title: Events & DJ
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
 date: '2020-11-15'
 categories:
   - content/data/categories/season-1.yaml
