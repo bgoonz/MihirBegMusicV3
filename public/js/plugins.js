@@ -16,7 +16,7 @@
  t < o;
  t++)for (var f = arguments[t], r = 0, d = f.length;
  r < d;
- r++ , i++)n[i] = f[r];
+     r++ , i++)n[i] = f[r];
  return n } return function (e, a) { return ("string" == typeof e ? t(document.querySelectorAll(e)) : "length" in e ? t(e) : [e]).forEach(function (e) { var t, o, n, i = void 0 !== a && document.querySelector(a), f = i ? document.querySelector(a) : e.parentElement, r = e.offsetHeight, d = e.offsetWidth, l = e.style;
  i ? (t = window.getComputedStyle(f, null).getPropertyValue("max-width"), l.width = "100%", l.maxHeight = "calc(" + t + " * " + r + " / " + d + ")") : (l.display = "block", l.marginLeft = "auto", l.marginRight = "auto", o = d > f.offsetWidth ? f.offsetWidth : d, n = d > f.offsetWidth ? o * r / d : d * (r / d), l.maxHeight = n + "px", l.width = o + "px");
  var u = 100 * r / d;
