@@ -12,9 +12,7 @@ image: images/post-9.jpg
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+    <iframe src="https://open.spotify.com/embed/album/09cBQb0MJV3zJ47erDQK6t" width="600"  height="400" frameborder="1"   allowtransparency="true" allow="encrypted-media"> </iframe>
 seo:
   title: Episode 9 - Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
