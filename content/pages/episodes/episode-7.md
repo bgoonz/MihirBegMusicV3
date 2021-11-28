@@ -23,6 +23,8 @@ episode_embed_html: >-
   There&quot;" target="_blank" style="color: #cccccc; text-decoration:
   none;">HitchHitching / Look Calm from upcoming album &quot;Getting
   There&quot;</a></div>
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-aa7fa1d9-e2e7-469a-b31a-4ff1c0c6ed40"></div>
 seo:
   title: Episode 7 - Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
