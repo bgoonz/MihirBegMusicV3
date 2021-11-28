@@ -12,14 +12,15 @@ image: images/post-9.jpg
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
-<iframe src="https://open.spotify.com/embed/album/09cBQb0MJV3zJ47erDQK6t" width="600" height="400" frameborder="11" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/776441220&color=%231b8ead&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mihir-beg" title="Mihir Beg" target="_blank" style="color: #cccccc; text-decoration: none;">Mihir Beg</a> · <a href="https://soundcloud.com/mihir-beg/sets/hitchhitching-look-calm" title="HitchHitching / Look Calm from upcoming album &quot;Getting There&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">HitchHitching / Look Calm from upcoming album &quot;Getting There&quot;</a></div>
-
-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe
+  src="https://open.spotify.com/embed/album/09cBQb0MJV3zJ47erDQK6t"
+  width="600"
+  height="400"
+  frameborder="11"
+  allowtransparency="true"
+  allow="encrypted-media"
+>
+</iframe>
 seo:
   title: Episode 9 - Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
