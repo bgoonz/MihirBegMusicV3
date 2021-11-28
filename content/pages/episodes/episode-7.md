@@ -43,12 +43,30 @@ seo:
       relativeUrl: true
 layout: post
 ---
+# Live Sound / DJ / Remote Recording&#xA;&#xA;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+#### Mihir Beg Sound
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+*Mihir Beg Sound *services include Live Sound Tech, DJ, audio equipment rentals and services for concerts, weddings and events. For years, Mihir worked closely alongside the masterful DJ Gera, and has recently purchased a full set of audio equipment suitable for the many services *Mihir Beg Sound *provides. 
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+
+
+
+Mihir has been in the DJ and Live Sound business for over 5 years now. He has done large scale concerts, including years of managing the Hoboken Arts and Music Festival, and touring the continent stage managing the Festival of India tour. DJ gigs have ranged from grand weddings, to Sweet 16s and corporate events all over the Tristate area.  
+
+
+
+
+Remote Music Production services also available. We do traveling recording sessions, create music videos, compose for film, and voiceover work. We are able to provide you safe and professional audio recording remotely or in the comfort of your home. 
+
+
+
+
+
+
+
+# ***Engineer / Producer***
+
+# ***Live Concerts***
+
+# ***DJ GIGS***
