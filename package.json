@@ -31,6 +31,6 @@
     "webpack": "5.65.0"
   },
   "devDependencies": {
-    "prettier": "2.4.1"
+    "prettier": "2.6.2"
   }
 }
